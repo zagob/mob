@@ -1,2 +1,1 @@
-# spotimob-frontend
-FrontEnd Spotimob
+
